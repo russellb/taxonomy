@@ -64,6 +64,12 @@ seed_examples:
           their varied anatomical locations and potentially their distinct
           functions within the immune system.
 
+      - question: What type of epithelium is found in the pharyngeal tonsil?
+        answer: |
+          The type of epithelium found in the pharyngeal tonsil is ciliated
+          pseudostratified columnar (respiratory epithelium).
+
+
   - context: |
       The **tonsils** are a set of [lymphoid](Lymphatic_system "wikilink")
       organs facing into the aerodigestive tract, which is known as
@@ -76,7 +82,17 @@ seed_examples:
 
     questions_and_answers:
       - question: What is the immune system's first line of defense?
-        answer: The tonsils are the immune system's first line of defense against ingested or inhaled foreign pathogens.
+        answer: |
+          The tonsils are the immune system's first line of defense against
+          ingested or inhaled foreign pathogens.
+
+      - question: What is Waldeyer's tonsillar ring?
+        answer: |
+          Waldeyer's tonsillar ring is a set of lymphoid organs facing into the
+          aerodigestive tract, consisting of the adenoid tonsil, two tubal
+          tonsils, two palatine tonsils, and the lingual tonsils.
+      - question: How many tubal tonsils are part of Waldeyer's tonsillar ring?
+        answer: There are two tubal tonsils as part of Waldeyer's tonsillar ring.
 
 document_outline: |
   Overview of Human tonsils, describing their types, locations, structure,
